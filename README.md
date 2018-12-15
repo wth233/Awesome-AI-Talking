@@ -1,5 +1,5 @@
 # Awesome-AI-Talking
-Awesome AI Talking, CVPR / ICCV / ACL /NIPS and others outstanding talking and sharing
+Awesome AI Talking, CVPR / ICCV / ACL /NIPS and others outstanding talking and sharing.
 1. Deep Residual Learning for Image Recognition, also known as 'ResNet', CVPR'16 best paper, talker is Kaiming He (MSRA).
 **Translation: @Tianhao Wu, Video Maker: @Jiekun Zhu**
 
