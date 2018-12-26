@@ -4,4 +4,4 @@ Awesome AI Talking, CVPR / ICCV / ACL /NIPS and others outstanding talking and s
 **Translation: @Tianhao Wu, Video Maker: [DubDuck](https://github.com/DubDuck "DubDuck's Github")**
 
 2. Densely Connected Convolutional Networks, also known as 'DenseNet', CVPR'17 best paper, talker is Gao Huang (Cornell University).
-**Translation: [ChenJoya](https://github.com/ChenJoya "ChenJoya's Github")**, Video Maker: [DubDuck](https://github.com/DubDuck "DubDuck's Github")**
+**Translation:** [ChenJoya](https://github.com/ChenJoya "ChenJoya's Github"), **Video Maker:** [DubDuck](https://github.com/DubDuck "DubDuck's Github")
